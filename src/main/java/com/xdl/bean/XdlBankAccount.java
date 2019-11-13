@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class XdlBankAccount implements Serializable{
 	
     /**
-	 * 
+	 *ggg 
 	 */
 	private static final long serialVersionUID = 1L;
 	@Override
